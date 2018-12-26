@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadPoll</string>
+    <string name="thread">Thread</string>
+    <string name="runnable">Runnable</string>
+    <string name="callable">Callable</string>
+
+</resources>
